@@ -1,4 +1,4 @@
-# Network Design Proposal
+# Networking Projects
 
 This folder contains my networking assignment work, including network design planning, device selection, subnetting, physical media choices, and security considerations.
 
