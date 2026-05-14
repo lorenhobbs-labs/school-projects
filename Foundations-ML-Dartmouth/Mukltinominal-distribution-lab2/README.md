@@ -39,13 +39,11 @@ The empirical probabilities calculated via MLE hover uniformly close to the theo
 
 ```text
 die-roll-mle/
-├── data/
-│   └── die_rolls.csv                       # Source categorical dataset
-├── notebooks/
-│   └── categorical_mle_analysis.ipynb      # Complete analysis implementation
-├── .gitignore                              # Python/Jupyter tracking omissions
-├── README.md                               # Project documentation
-└── requirements.txt                        # Environment dependencies
+├── die_rolls.csv                         # Source categorical dataset
+├── Mukltinomial distribution lab 2.ipynb   # Complete analysis implementation
+├── .gitignore                            # Git tracking exclusions
+├── README.md                             # Project documentation
+└── requirements.txt                      # Environment dependencies
 ```
 
 ---
